@@ -25,10 +25,23 @@
     display: block;
     margin-bottom: 3px;
     padding: 3px;
-    border: 1px solid lightgray;
+    border: 1px solid pink;
     border-radius: 3px;
+
 }
 
+.find-btn{
+    text-align: center;
+}
+
+.find-btn1{
+    display:inline-blick;
+    background-color: pink;
+    background-color: pink;
+    border-color: transparent;
+    color: white;
+    font-size : x-small;
+}
 #alert {
     border-color: transparent;
 }
